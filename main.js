@@ -202,8 +202,8 @@ async function runAllScriptsSequentially(includeKintsu = false, includeShmonad =
 
 async function run() {
   console.log('═══════════════════════════════════════');
-  console.log('Monad Auto Bot - Airdrop Toolkit Hub');
-  console.log('Channel Telegram : https://t.me/AirdropToolkitHub');
+  console.log('Monad Airdrop Agent - Velhusteth');
+  console.log('Github  : https://github.com/velhusteth');
   console.log('═══════════════════════════════════════');
   const response = await prompts({
     type: "select",
